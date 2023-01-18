@@ -1,0 +1,35 @@
+/* h1{ */
+    /* color: indigo; */
+/* } */
+.font1{
+    /* font-family: 'Sofia Sans', sans-serif; */
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 300;
+}
+
+.font2{
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+}
+
+.font3{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+}
+
+.font4{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+
+.font5{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 700;
+}
+
+.font6{
+    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Skranji', cursive;
+    font-weight: 400;
+}
